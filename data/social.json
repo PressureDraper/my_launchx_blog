@@ -1,13 +1,23 @@
 {
   "links": [
     {
-      "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
+      "name": "Instagram",
+      "url": "https://www.instagram.com/pressure_draper",
       "image": "images/social/twitter.svg"
     },
     {
-      "name": "github",
-      "url": "https://github.com/zerostaticthemes",
+      "name": "Youtube",
+      "url": "https://www.youtube.com/channel/UCZZTPCTizA-RHnN4lQsc01w",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/PressureDraper",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/PressureDraper",
       "image": "images/social/github.svg"
     }
   ]
