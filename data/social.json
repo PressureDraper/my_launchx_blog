@@ -3,17 +3,17 @@
     {
       "name": "Instagram",
       "url": "https://www.instagram.com/pressure_draper",
-      "image": "images/social/twitter.svg"
+      "image": "images/social/instagram.png"
     },
     {
       "name": "Youtube",
       "url": "https://www.youtube.com/channel/UCZZTPCTizA-RHnN4lQsc01w",
-      "image": "images/social/twitter.svg"
+      "image": "images/social/youtube.png"
     },
     {
       "name": "Facebook",
       "url": "https://www.facebook.com/PressureDraper",
-      "image": "images/social/twitter.svg"
+      "image": "images/social/facebook.png"
     },
     {
       "name": "Github",
