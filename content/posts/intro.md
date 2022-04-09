@@ -1,6 +1,6 @@
 ---
 title: "Mis expectativas"
-date: 2022-04-08T18:16:21-07:30
+date: 2022-04-08
 description: 'Primer post de la misión back-end Node JS'
 ---
 
