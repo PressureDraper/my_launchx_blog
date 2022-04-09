@@ -5,17 +5,13 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quién soy yo?
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, aquí vas a leer un poco sobre mi 😸
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> *Perpetual optism is a forceful multiplier.*
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Mi nombre es Omar Sahib Mirón Hernández, vivo en Xalapa-Veracruz México. Tengo 21 años y me gusta bastante la tecnología y todo lo relacionado a ella, actualmente me encuentro estudiando el octavo semestre de mi carrera llamada Redes y Servicios de cómputo en la Universidad Veracruzana.
+
+Además de tener el propósito de llegar a ser desarrollador de software también he estado estudiando en mi tiempo libre para convertirme en productor musical puesto que es otra meta personal que me gustaría conseguir. 😄
 
