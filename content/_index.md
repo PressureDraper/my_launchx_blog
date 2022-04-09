@@ -7,4 +7,4 @@ Hola ✌️  soy el explorer **Sahib** y este es mi blog personal donde comparti
 
 Te invito a conocer mis aprendizajes y leer mis experiencias. 🚀
 
-![Image text](images/me.jpg)
+![Image text](/images/me.jpg)
