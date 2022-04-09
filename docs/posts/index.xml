@@ -16,5 +16,16 @@
       <description>Mis expectativas para esta misión es poder tener un panorama amplio sobre el framework de desarrollo Node, así como aprender y conocer múltiples herramientas que ayuden a un desarrollador de software a consolidar su trabajp en este entorno. 😄</description>
     </item>
     
+    <item>
+      <title>Ruta de Aprendizaje LaunchX</title>
+      <link>https://pressuredraper.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pressuredraper.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>IDEAS IMPORTANTES:
+ Conocer tu editor de texto. Conocer tu sistema operativo. Conocer Git | Github.  IDEAS DIFUSAS:
+ ¿Qué es Hugo? | ¿Cómo funciona? Funcionamiento de Github Actions Alcance y Personalización de Github Pages  </description>
+    </item>
+    
   </channel>
 </rss>
